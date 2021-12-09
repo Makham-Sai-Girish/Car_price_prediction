@@ -11,3 +11,10 @@ Different algorithms are used to make the model.
 Gradient Boosting Regressor is the model i considered as best by comparing to other. 
 Accuracy achieved is 78% initially.
 By Hyper Parameter Tuning, accuracy increased to 90%
+Files included in folder : 
+Project report as pdf
+project presentation as ppt
+Cars data .csv file
+Code used to scrap data
+Code used to do the ML model
+
